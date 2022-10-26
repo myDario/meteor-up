@@ -88,7 +88,7 @@
     "traverse": "^0.6.6",
     "uuid": "^3.4.0",
     "www-authenticate": "^0.6.2",
-    "yargs": "^15.3.1"
+    "yargs": "^15.4.1"
   },
   "nyc": {
     "sourceMap": false,
